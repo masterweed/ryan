@@ -6,11 +6,11 @@
     "pic": "01.jpg",
     "managerId": 0,
     "title": "台中市西區公益路68號",
-    "department": "西區",
+    "department": "台中市",
     "cellPhone": "04-23217269",
     "adress": "",
     "": "",
-    "city": "台中市"
+    "city": ""
   },
   {
     "id": 2,
@@ -19,11 +19,11 @@
     "pic": "02.jpg",
     "managerId": 1,
     "title": "台北市信義區松高路11號",
-    "department": "信義區",
+    "department": "台北市",
     "cellPhone": "02-27234162",
     "adress": "",
     "": "",
-    "city": "台北市"
+    "city": ""
   },
   {
     "id": 3,
@@ -32,11 +32,11 @@
     "pic": "03.jpg",
     "managerId": 1,
     "title": "新竹縣關西鎮東安里11鄰三屯14號",
-    "department": "關西鎮",
+    "department": "新竹市",
     "cellPhone": "03-5871910",
     "adress": "",
     "": "",
-    "city": "新竹市"
+    "city": ""
   },
   {
     "id": 4,
@@ -45,11 +45,11 @@
     "pic": "04.jpg",
     "managerId": 1,
     "title": "新竹市東區中央路29號",
-    "department": "東區",
+    "department": "新竹市",
     "cellPhone": "03-5357439",
     "adress": "",
     "": "",
-    "city": "新竹市"
+    "city": ""
   },
   {
     "id": 5,
@@ -58,11 +58,11 @@
     "pic": "05.jpg",
     "managerId": 1,
     "title": "新北市新店區中央路157號5樓",
-    "department": "新店區",
+    "department": "新北市",
     "cellPhone": "02-89137860",
     "adress": "",
     "": "",
-    "city": "新北市"
+    "city": ""
   },
   {
     "id": 6,
@@ -71,11 +71,11 @@
     "pic": "06.jpg",
     "managerId": 4,
     "title": "台北市松山區信義路11號",
-    "department": "松山區",
+    "department": "台北市",
     "cellPhone": "02-2723-7168",
     "adress": "",
     "": "",
-    "city": "台北市"
+    "city": ""
   },
   {
     "id": 7,
@@ -84,11 +84,11 @@
     "pic": "07.jpg",
     "managerId": 4,
     "title": "台南市東區中華東路一段336號",
-    "department": "東區",
+    "department": "台南市",
     "cellPhone": "06-200-2544",
     "adress": "",
     "": "",
-    "city": "台南市"
+    "city": ""
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "pic": "08.jpg",
     "managerId": 2,
     "title": "宜蘭縣宜蘭市民權路二段38巷6號",
-    "department": "宜蘭市",
+    "department": "宜蘭縣",
     "cellPhone": "03-9333298",
     "adress": "",
     "": "",
-    "city": "宜蘭縣"
+    "city": ""
   },
   {
     "id": 9,
@@ -110,11 +110,11 @@
     "pic": "09.jpg",
     "managerId": 2,
     "title": "台中市清水區吳厝二街89號",
-    "department": "清水區",
+    "department": "台中市",
     "cellPhone": "04-2620-2693",
     "adress": "",
     "": "",
-    "city": "台中市"
+    "city": ""
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "pic": "10.jpg",
     "managerId": 5,
     "title": "桃園市中壢區中原路二段501號",
-    "department": "中壢區",
+    "department": "桃園市",
     "cellPhone": "03-468-0918",
     "adress": "",
     "": "",
-    "city": "桃園市"
+    "city": ""
   },
   {
     "id": 11,
@@ -136,11 +136,11 @@
     "pic": "11.jpg",
     "managerId": 5,
     "title": "台北市南港區忠孝東路七段371號B1",
-    "department": "南港區",
+    "department": "台北市",
     "cellPhone": "02-2651-2454",
     "adress": "",
     "": "",
-    "city": "台北市"
+    "city": ""
   },
   {
     "id": 12,
@@ -149,10 +149,10 @@
     "pic": "12.jpg",
     "managerId": 4,
     "title": "台北市大同區承德路一段1號B3F",
-    "department": "大同區",
+    "department": "台北市",
     "cellPhone": "02-2552-2488",
     "adress": "",
     "": "",
-    "city": "台北市"
+    "city": ""
   }
 ]
